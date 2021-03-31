@@ -1,5 +1,5 @@
 # Electric-car-usage-project by Ian Mutai
-This research project was about electric car usage using the Autolib dataset
+This research project was about electric car usage using the Autolib dataset. The following steps were taken while drafting the report: 
 ## 1. Defining the Problem Statement
 Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
 
