@@ -19,3 +19,9 @@ We went ahead to analyze and determine the most popular hours for either picking
 
 ## 5. Recommendation
 We went ahead to give out our recommendations for the project
+
+# The python notebook contains the following analysis from the project:
+
+## 1. The most popular hour for picking up bluecars in Paris
+## 2. The most popular hour for returning cars
+## 3. The most popular station
